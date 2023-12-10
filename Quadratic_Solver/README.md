@@ -8,10 +8,10 @@ the equation are found.
 
 ## Requirements
 
-*`C++17`.
-* Developed on `Ubuntu 20.04`.
-* `CMake`.
-* Text Editor.
+       *`C++17`.
+       * Developed on `Ubuntu 20.04`.
+       * `CMake`.
+       * Text Editor.
 
 ## Building the Application
 
