@@ -14,6 +14,7 @@ A small repository which demonstrates how to install Googles Testing suite, GTes
 
 Two files are included: to_test.cpp and test.cpp
 
-* `cmake CMakeLists.txt`
-* `make`
+* `$ cmake CMakeLists.txt`
+* `$ make`
+* `$ ./runTests
 
