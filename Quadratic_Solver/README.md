@@ -3,7 +3,7 @@
 ## Introduction
 
 Application employes OOP to solve 2nd Order Polynomials, AKA, quadratic equations.
-The user enters values for the coefficients at the command line, and the roots to 
+The user enters values for the coefficients at the command line, and the roots of 
 the equation are found.
 
 ## Requirements
