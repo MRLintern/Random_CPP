@@ -16,5 +16,5 @@ Two files are included: to_test.cpp and test.cpp
 
 * `$ cmake CMakeLists.txt`
 * `$ make`
-* `$ ./runTests
+* `$ ./runTests`
 
