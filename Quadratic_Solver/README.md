@@ -15,7 +15,7 @@ the equation are found.
        
 ## Building the Application
 
-* `$ git clone https://github.com/MRLintern/Random_CPP/Quadratic_Solver`
+* `$ git clone https://github.com/MRLintern/Random_CPP/Quadratic_Solver.git`
 * `$ mkdir build && cd build`
 * `$ cmake ..`
 * `$ make`
